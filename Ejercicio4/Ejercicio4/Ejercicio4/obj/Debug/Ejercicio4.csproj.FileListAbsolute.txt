@@ -1,0 +1,6 @@
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio4\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio4\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

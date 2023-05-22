@@ -1,0 +1,5 @@
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\nmnmm\Desktop\Proyectos-TP5-TP6-TP7-TP8-TP9\TP7-MaxiVillacorta.C\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
